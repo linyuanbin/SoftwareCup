@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:id="@+id/rl_title"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:gravity="bottom"
+        android:background="@android:color/holo_orange_light"
+        >
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="49dp"
+            android:background="@android:color/holo_red_light"
+            >
+            <com.example.dtlp.view.CircleImageView
+                android:id="@+id/iv_icon"
+                android:layout_marginLeft="10dp"
+                android:layout_centerVertical="true"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                />
+            <!--app:roundWidth="17.5dp"-->
+            <!--app:roundHeight="17.5dp" />-->
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="知图"
+                android:layout_centerInParent="true"
+                android:textColor="#ffffff"
+                android:textSize="20sp"
+                />
+        </RelativeLayout>
+    </RelativeLayout>
+    <com.cjj.MaterialRefreshLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/activity_search_refresh"
+        >
+        <GridView
+            android:layout_marginTop="10dp"
+            android:id="@+id/activity_search_id_photo_wall"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:columnWidth="@dimen/image_thumbnail_size"
+            android:gravity="center"
+            android:horizontalSpacing="@dimen/image_thumbnail_spacing"
+            android:numColumns="auto_fit"
+            android:stretchMode="columnWidth"
+            android:verticalSpacing="@dimen/image_thumbnail_spacing" >
+        </GridView>
+    </com.cjj.MaterialRefreshLayout>
+
+</LinearLayout>

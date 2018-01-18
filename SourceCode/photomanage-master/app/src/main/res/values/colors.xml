@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#00b7ff</color>
+    <color name="blue1">#1258a9</color>
+    <color name="make_me_green">#00ffffff</color>
+    <color name="white">#00ffffff</color>
+    <color name="lv_click_color">#77AAAAAA</color>
+    <color name="red">#faede5e5</color>
+    <color name="red1">#fff0f0</color>
+    <color name="yellow">#f5fc131f</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhite2">#FAFAFA</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="colorTransparent_One">#50000000</color>
+    <color name="colorBlack_One">#1a1a1a</color>
+    <color name="colorBlack_Two">#323232</color>
+    <color name="colorBlack_Three">#333333</color>
+    <color name="colorBlack_Four">#808080</color>
+    <color name="colorOrage_One">#e67819</color>
+    <color name="colorOrage_Two">#E57B1B</color>
+    <color name="colorHint">#b3b3b3</color>
+    <color name="colorHint_Two">#b2b2b2</color>
+    <color name="colorTag">#1f8ecd</color>
+    <color name="colorFill">#F8EDE3</color>
+
+    <color name="colorBg_One">#FAFAFA</color>
+    <color name="colorBg_Two">#F2F2F2</color>
+    <color name="colorLine">#E6E6E6</color>
+    <color name="color_line_border">#C7C7C7</color>
+    <color name="color_blue">#0089CF</color>
+</resources>

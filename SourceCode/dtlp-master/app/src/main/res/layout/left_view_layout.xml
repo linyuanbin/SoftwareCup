@@ -1,0 +1,115 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="70dp"
+    android:background="@drawable/background"
+    >
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/ll1"
+        android:paddingLeft="30dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+     <!--头像，昵称信息-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        >
+        <com.example.dtlp.view.CircleImageView
+            android:src="@drawable/head_portrait"
+            android:id="@+id/iv_bottom"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            />
+            <!--app:roundWidth="25dp"-->
+            <!--app:roundHeight="25dp"/>-->
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_gravity="center_vertical"
+            android:orientation="vertical">
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+               >
+                <TextView
+                    android:id="@+id/name"
+                    android:gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:text="名字:jiangqqlmj"
+                    android:textColor="@android:color/black"
+                    android:textSize="25sp" />
+                <ImageButton
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="100dp"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+            <!--<ImageView-->
+                <!--android:layout_width="17dp"-->
+                <!--android:layout_height="17dp"-->
+                <!--android:scaleType="fitXY"-->
+                <!--android:layout_weight="1"-->
+                <!--/>-->
+            <TextView
+                android:gravity="right"
+                android:layout_weight="1"
+                android:textSize="20sp"
+                android:textColor="#676767"
+                android:text="积分："
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/integral"
+                android:layout_weight="2"
+                android:text="0"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:textSize="20sp"
+                android:textColor="#676767"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ll1"
+        android:layout_marginBottom="30dp"
+        android:layout_marginTop="60dp"
+        android:cacheColorHint="#00000000"
+        android:listSelector="@drawable/lv_click_selector"
+        android:divider="@null"
+        android:scrollbars="none"
+        android:textColor="#ffffff" />
+        <Button
+
+            android:onClick="doClick"
+            android:id="@+id/exit"
+            android:background="@drawable/exit_button_selector"
+            android:text="退出"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2017-4-23 18:19:28 by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="model.Feedback" table="FEEDBACK">
+        <id name="FbId" type="java.lang.String">
+            <column name="FBID" />
+            <generator class="assigned" />
+        </id>
+        <property name="UserID" type="java.lang.String">
+            <column name="USERID" />
+        </property>
+        <property name="Content" type="java.lang.String">
+            <column name="CONTENT" />
+        </property>
+        <property name="UserTel" type="java.lang.String">
+            <column name="USERTEL" />
+        </property>
+        <property name="states" type="int">
+            <column name="STATES" />
+        </property>
+        <property name="date" type="java.util.Date">
+            <column name="DATE" />
+        </property>
+    </class>
+</hibernate-mapping>

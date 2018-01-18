@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\serch.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\serch.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\screenshot.gif",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\screenshot.gif"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dog.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\dog.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\discover11.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\discover11.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wechat.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\wechat.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main.jpg",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\main.jpg"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\islike.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\islike.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_qrcode_press.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\sidebar_qrcode_press.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_night_selector.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\btn_night_selector.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_country_group_scroll_up.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\drawable\\smssdk_country_group_scroll_up.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidabar_about.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\sidabar_about.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_logo.jpg",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\icon_logo.jpg"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_grey.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\sidebar_grey.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lock.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\lock.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_btn_disenable.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\drawable\\smssdk_btn_disenable.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_favorite.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\sidebar_favorite.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_qrcode_normal.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\sidebar_qrcode_normal.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qrcode_selector.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\qrcode_selector.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reddot.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\reddot.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\maomao.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\maomao.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qq.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\qq.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_corners_bg.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\drawable\\smssdk_corners_bg.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ilikes.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\ilikes.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_set.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\sidebar_set.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\push7.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\push7.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button_selector.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\login_button_selector.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_country_group_scroll_down.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\drawable\\smssdk_country_group_scroll_down.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\empty_photo.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\empty_photo.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_corners_bg_nor.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\drawable\\smssdk_corners_bg_nor.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lv_click_selector.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\lv_click_selector.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_btn_enable.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\drawable\\smssdk_btn_enable.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_nightmode_off_press.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\sidebar_nightmode_off_press.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\discover10.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\discover10.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_corners_bg_pre.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\drawable\\smssdk_corners_bg_pre.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_white.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\btn_back_white.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_business.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\sidebar_business.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\history10.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\history10.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_bg.jpg",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\sidebar_bg.jpg"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\history6.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\history6.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linearlayout_selector.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\linearlayout_selector.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_edittext_bg_selector.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\drawable\\smssdk_edittext_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sideabr_update.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\sideabr_update.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_setting.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\sidebar_setting.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_setting_selector.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\btn_setting_selector.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit_button_selector.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\exit_button_selector.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head_portrait.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\head_portrait.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_integral.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\sidebar_integral.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_signature_nor.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\sidebar_signature_nor.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bigreddot.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\bigreddot.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_nightmode_off.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\sidebar_nightmode_off.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_signature_other.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\sidebar_signature_other.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_picturetagview_tagview_right.9.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\bg_picturetagview_tagview_right.9.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_information.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\sidebar_information.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\push6.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\push6.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_picturetagview_tagview_left.9.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\bg_picturetagview_tagview_left.9.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_country_bg_selector.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\drawable\\smssdk_country_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_setting_press.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\sidebar_setting_press.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_dialog_btn_back.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\drawable\\smssdk_dialog_btn_back.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shap.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\shap.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\like.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\like.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\drawable\\back.png"
+    }
+]

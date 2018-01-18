@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\default_face.9.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\mipmap-hdpi\\default_face.9.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\shadow.png",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\mipmap-hdpi\\shadow.png"
+    }
+]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <!--<com.cjj.MaterialRefreshLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:id="@+id/refresh"-->
+        <!--&gt;-->
+        <!--<GridView-->
+            <!--android:layout_marginTop="10dp"-->
+            <!--android:id="@+id/id_photo_wall"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:columnWidth="@dimen/image_thumbnail_size"-->
+            <!--android:gravity="center"-->
+            <!--android:horizontalSpacing="@dimen/image_thumbnail_spacing"-->
+            <!--android:numColumns="auto_fit"-->
+            <!--android:stretchMode="columnWidth"-->
+            <!--android:verticalSpacing="@dimen/image_thumbnail_spacing" >-->
+        <!--</GridView>-->
+    <!--</com.cjj.MaterialRefreshLayout>-->
+</LinearLayout>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="50dp">
+
+    <LinearLayout
+
+        android:id="@+id/layout_tap01"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="match_parent">
+        <ImageButton
+
+            android:id="@+id/img_button_push"
+            android:src="@drawable/push7"
+            android:background="#ffffff"
+            android:clickable="false"
+            android:layout_weight="2"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp" />
+        <TextView
+            android:id="@+id/text_fragment_push"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="推送"
+            android:textSize="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+
+        android:id="@+id/layout_tap02"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="match_parent">
+        <ImageButton
+            android:id="@+id/img_button_history"
+            android:src="@drawable/history6"
+            android:background="#ffffff"
+            android:clickable="false"
+            android:layout_weight="2"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp" />
+        <TextView
+            android:id="@+id/text_fragment_history"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="历史"
+            android:textSize="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+
+
+    </LinearLayout>
+    <LinearLayout
+
+        android:id="@+id/layout_tap03"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="match_parent">
+        <ImageButton
+            android:id="@+id/img_button_classify"
+            android:src="@drawable/discover10"
+            android:background="#ffffff"
+            android:clickable="false"
+            android:layout_weight="2"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp" />
+        <TextView
+            android:id="@+id/text_fragment_classify"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="发现"
+            android:textSize="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+
+    </LinearLayout>
+</LinearLayout>

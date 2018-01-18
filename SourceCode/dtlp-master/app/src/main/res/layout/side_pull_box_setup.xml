@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@android:color/holo_red_light">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="设置"
+            android:layout_centerInParent="true"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            />
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="20px"
+        android:background="#dadee7" />
+
+    <LinearLayout
+        android:clickable="true"
+        android:onClick="doClick"
+        android:id="@+id/ChangPassword"
+        android:background="@drawable/linearlayout_selector"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+        <TextView
+            android:textColor="#d2000000"
+            android:layout_gravity="center"
+            android:gravity="left"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:textSize="20dp"
+            android:text="修改密码"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#173070" />
+    <LinearLayout
+        android:clickable="true"
+        android:onClick="doClick"
+        android:id="@+id/ChangTel"
+        android:background="@drawable/linearlayout_selector"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+        <TextView
+            android:textColor="#d2000000"
+            android:layout_gravity="center"
+            android:gravity="left"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:textSize="20dp"
+            android:text="修改电话号码"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:textColor="#d2000000"
+            android:id="@+id/tel_"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:layout_gravity="center"
+            android:textSize="17dp"
+            android:text="13944677348"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#173070" />
+    <LinearLayout
+        android:clickable="true"
+        android:onClick="doClick"
+        android:id="@+id/UserFeedback"
+        android:background="@drawable/linearlayout_selector"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+        <TextView
+            android:textColor="#d2000000"
+            android:layout_gravity="center"
+            android:gravity="left"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:textSize="20dp"
+            android:text="用户反馈:"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#173070" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <EditText
+        android:id="@+id/UserFeedback_"
+        android:layout_width="match_parent"
+        android:layout_marginTop="23dp"
+        android:layout_marginLeft="15dp"
+        android:layout_height="wrap_content"
+        />
+        <Button
+            android:onClick="doClick"
+            android:id="@+id/sure"
+            android:layout_gravity="bottom"
+            android:text="确定"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+    </LinearLayout>
+
+</LinearLayout>

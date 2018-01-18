@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2017-5-4 16:36:30 by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="model.Manager" table="MANAGER">
+        <id name="mIdCard" type="java.lang.String" > <!-- access="field" -->
+            <column name="MIDCARD" />
+            <generator class="assigned" />
+        </id>
+        <property name="mName" type="java.lang.String" > <!-- access="field" -->
+            <column name="MNAME" />
+        </property>
+        <property name="mPassword" type="java.lang.String" > <!-- access="field" -->
+            <column name="MPASSWORD" />
+        </property>
+        <property name="mEmail" type="java.lang.String" > <!-- access="field" -->
+            <column name="MEMAIL" />
+        </property>
+        <property name="mTel" type="java.lang.String" >  <!-- access="field" -->
+            <column name="MTEL" />
+        </property>
+        <property name="mHeadPort" type="java.lang.String" > <!-- access="field" -->
+            <column name="MHEADPORT" />
+        </property>
+        <property name="mSex" type="java.lang.String" > <!-- access="field" -->
+            <column name="MSEX" />
+        </property>
+        <property name="mAge" type="int" > <!-- access="field" -->
+            <column name="MAGE" />
+        </property>
+        <property name="mWorkNum" type="java.lang.String" >  <!-- access="field" -->
+            <column name="MWORKNUM" />
+        </property>
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2017-4-23 18:19:28 by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="model.User" table="USER">
+        <id name="UserID" type="java.lang.String">
+            <column name="USERID" />
+            <generator class="assigned" />
+        </id>
+        <property name="UserName" type="java.lang.String">
+            <column name="USERNAME" />
+        </property>
+        <property name="UserTel" type="java.lang.String">
+            <column name="USERTEL" />
+        </property>
+        <property name="UserEmail" type="java.lang.String">
+            <column name="USEREMAIL" />
+        </property>
+        <property name="UserPassword" type="java.lang.String">
+            <column name="USERPASSWORD" />
+        </property>
+        <property name="UserNickName" type="java.lang.String">
+            <column name="USERNICKNAME" />
+        </property>
+        <property name="UserSex" type="java.lang.String">
+            <column name="USERSEX" />
+        </property>
+        <property name="UserBirthday" type="java.util.Date">
+            <column name="USERBIRTHDAY" />
+        </property>
+        <property name="UserMajor" type="java.lang.String">
+            <column name="USERMAJOR" />
+        </property>
+        <property name="UserIntegral" type="int">
+            <column name="USERINTEGRAL" />
+        </property>
+        <property name="accomplish" type="int">
+            <column name="ACCOMPLISH" />
+        </property>
+        <property name="total" type="int">
+            <column name="TOTAL" />
+        </property>
+        <property name="UserUnderWrite" type="java.lang.String">
+            <column name="USERUNDERWRITE" />
+        </property>
+        <property name="UserHobby" type="java.lang.String">
+            <column name="USERHOBBY" />
+        </property>
+        <property name="UserHeadPortr" type="java.lang.String">
+            <column name="USERHEADPORTR" />
+        </property>
+        <property name="state" type="java.lang.String">
+            <column name="STATE" />
+        </property>
+        
+        <property name="localAddress" type="java.lang.String">
+            <column name="LOCALADDRESS" />
+        </property>
+        
+        <set name="pictures" table="PICTURE" inverse="false" lazy="false">
+            <key>
+                <column name="USERID" />
+            </key>
+            <one-to-many class="model.Picture" />
+        </set>
+    </class>
+</hibernate-mapping>

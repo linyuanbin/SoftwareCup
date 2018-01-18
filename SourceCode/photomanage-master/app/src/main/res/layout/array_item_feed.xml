@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/item_feed"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/useritem"
+            />
+        <TextView
+
+            android:layout_gravity="center"
+            android:typeface="serif"
+            android:singleLine="true"
+            android:focusable="false"
+            android:id="@+id/name"
+            android:textSize="18dp"
+            android:layout_width="120dp"
+            android:layout_height="25dp" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/contenitem"
+            />
+        <TextView
+            android:textColor="#cc2577"
+            android:layout_gravity="center"
+            android:textSize="18dp"
+            android:singleLine="true"
+            android:focusable="false"
+            android:paddingRight="20dp"
+            android:paddingLeft="20dp"
+            android:id="@+id/feed"
+            android:layout_width="120dp"
+            android:layout_height="25dp" />
+
+        <CheckBox
+            android:visibility="gone"
+            android:focusable="false"
+            android:text="是否解决"
+            android:id="@+id/ask"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</LinearLayout>

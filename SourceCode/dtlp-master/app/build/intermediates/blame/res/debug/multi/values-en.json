@@ -1,0 +1,3251 @@
+[
+    {
+        "outputFile": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 16,
+                    "endColumn": 16,
+                    "endOffset": 972
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 16,
+                        "endColumn": 16,
+                        "endOffset": 972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 977,
+                    "endLine": 36,
+                    "endColumn": 16,
+                    "endOffset": 2051
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 977,
+                        "endLine": 36,
+                        "endColumn": 16,
+                        "endOffset": 2051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2056,
+                    "endLine": 55,
+                    "endColumn": 16,
+                    "endOffset": 3230
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2056,
+                        "endLine": 55,
+                        "endColumn": 16,
+                        "endOffset": 3230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3235,
+                    "endLine": 62,
+                    "endColumn": 16,
+                    "endOffset": 3638
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3235,
+                        "endLine": 62,
+                        "endColumn": 16,
+                        "endOffset": 3638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3643,
+                    "endLine": 71,
+                    "endColumn": 16,
+                    "endOffset": 4046
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3643,
+                        "endLine": 71,
+                        "endColumn": 16,
+                        "endOffset": 4046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4051,
+                    "endLine": 79,
+                    "endColumn": 16,
+                    "endOffset": 4553
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4051,
+                        "endLine": 79,
+                        "endColumn": 16,
+                        "endOffset": 4553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 4558,
+                    "endLine": 96,
+                    "endColumn": 16,
+                    "endOffset": 5499
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 4558,
+                        "endLine": 96,
+                        "endColumn": 16,
+                        "endOffset": 5499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 5504,
+                    "endLine": 102,
+                    "endColumn": 16,
+                    "endOffset": 5838
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 5504,
+                        "endLine": 102,
+                        "endColumn": 16,
+                        "endOffset": 5838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 5843,
+                    "endLine": 113,
+                    "endColumn": 16,
+                    "endOffset": 8347
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 5843,
+                        "endLine": 113,
+                        "endColumn": 16,
+                        "endOffset": 8347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 8352,
+                    "endLine": 119,
+                    "endColumn": 16,
+                    "endOffset": 9224
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 8352,
+                        "endLine": 119,
+                        "endColumn": 16,
+                        "endOffset": 9224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 9229,
+                    "endLine": 126,
+                    "endColumn": 16,
+                    "endOffset": 9534
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 9229,
+                        "endLine": 126,
+                        "endColumn": 16,
+                        "endOffset": 9534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 9539,
+                    "endLine": 137,
+                    "endColumn": 16,
+                    "endOffset": 10079
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 9539,
+                        "endLine": 137,
+                        "endColumn": 16,
+                        "endOffset": 10079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 10084,
+                    "endLine": 160,
+                    "endColumn": 16,
+                    "endOffset": 11245
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 10084,
+                        "endLine": 160,
+                        "endColumn": 16,
+                        "endOffset": 11245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 11250,
+                    "endLine": 173,
+                    "endColumn": 16,
+                    "endOffset": 12081
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 11250,
+                        "endLine": 173,
+                        "endColumn": 16,
+                        "endOffset": 12081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 12086,
+                    "endLine": 176,
+                    "endColumn": 16,
+                    "endOffset": 12187
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 12086,
+                        "endLine": 176,
+                        "endColumn": 16,
+                        "endOffset": 12187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 12192,
+                    "endLine": 189,
+                    "endColumn": 16,
+                    "endOffset": 12928
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 12192,
+                        "endLine": 189,
+                        "endColumn": 16,
+                        "endOffset": 12928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 12933,
+                    "endLine": 192,
+                    "endColumn": 16,
+                    "endOffset": 13035
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 12933,
+                        "endLine": 192,
+                        "endColumn": 16,
+                        "endOffset": 13035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 13040,
+                    "endLine": 199,
+                    "endColumn": 16,
+                    "endOffset": 13410
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 193,
+                        "startColumn": 4,
+                        "startOffset": 13040,
+                        "endLine": 199,
+                        "endColumn": 16,
+                        "endOffset": 13410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 13415,
+                    "endLine": 229,
+                    "endColumn": 16,
+                    "endOffset": 15308
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 13415,
+                        "endLine": 229,
+                        "endColumn": 16,
+                        "endOffset": 15308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 15313,
+                    "endLine": 242,
+                    "endColumn": 16,
+                    "endOffset": 16087
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 230,
+                        "startColumn": 4,
+                        "startOffset": 15313,
+                        "endLine": 242,
+                        "endColumn": 16,
+                        "endOffset": 16087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 16092,
+                    "endLine": 251,
+                    "endColumn": 16,
+                    "endOffset": 17328
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 243,
+                        "startColumn": 4,
+                        "startOffset": 16092,
+                        "endLine": 251,
+                        "endColumn": 16,
+                        "endOffset": 17328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 17333,
+                    "endLine": 258,
+                    "endColumn": 16,
+                    "endOffset": 17657
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 4,
+                        "startOffset": 17333,
+                        "endLine": 258,
+                        "endColumn": 16,
+                        "endOffset": 17657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 17662,
+                    "endLine": 261,
+                    "endColumn": 16,
+                    "endOffset": 17729
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 259,
+                        "startColumn": 4,
+                        "startOffset": 17662,
+                        "endLine": 261,
+                        "endColumn": 16,
+                        "endOffset": 17729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 17734,
+                    "endLine": 264,
+                    "endColumn": 16,
+                    "endOffset": 17801
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 262,
+                        "startColumn": 4,
+                        "startOffset": 17734,
+                        "endLine": 264,
+                        "endColumn": 16,
+                        "endOffset": 17801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 17806,
+                    "endLine": 267,
+                    "endColumn": 16,
+                    "endOffset": 17914
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 265,
+                        "startColumn": 4,
+                        "startOffset": 17806,
+                        "endLine": 267,
+                        "endColumn": 16,
+                        "endOffset": 17914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 17919,
+                    "endLine": 271,
+                    "endColumn": 19,
+                    "endOffset": 18079
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 268,
+                        "startColumn": 4,
+                        "startOffset": 17919,
+                        "endLine": 271,
+                        "endColumn": 19,
+                        "endOffset": 18079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 18084,
+                    "endColumn": 50,
+                    "endOffset": 18130
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 50,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 18135,
+                    "endColumn": 45,
+                    "endOffset": 18176
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 45,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 18181,
+                    "endColumn": 48,
+                    "endOffset": 18225
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 48,
+                        "endOffset": 196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 18230,
+                    "endColumn": 82,
+                    "endOffset": 18308
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 201,
+                        "endColumn": 82,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 18313,
+                    "endColumn": 64,
+                    "endOffset": 18373
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 64,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 18378,
+                    "endColumn": 141,
+                    "endOffset": 18515
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 349,
+                        "endColumn": 141,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 18520,
+                    "endColumn": 62,
+                    "endOffset": 18578
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 62,
+                        "endOffset": 549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 18583,
+                    "endColumn": 66,
+                    "endOffset": 18645
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 554,
+                        "endColumn": 66,
+                        "endOffset": 616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 18650,
+                    "endColumn": 71,
+                    "endOffset": 18717
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 621,
+                        "endColumn": 71,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 18722,
+                    "endColumn": 58,
+                    "endOffset": 18776
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 58,
+                        "endOffset": 747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 18781,
+                    "endColumn": 50,
+                    "endOffset": 18827
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 752,
+                        "endColumn": 50,
+                        "endOffset": 798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 18832,
+                    "endColumn": 105,
+                    "endOffset": 18933
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endColumn": 105,
+                        "endOffset": 904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 18938,
+                    "endColumn": 65,
+                    "endOffset": 18999
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 272,
+                        "startColumn": 4,
+                        "startOffset": 18084,
+                        "endColumn": 65,
+                        "endOffset": 18145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 19004,
+                    "endColumn": 64,
+                    "endOffset": 19064
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 273,
+                        "startColumn": 4,
+                        "startOffset": 18150,
+                        "endColumn": 64,
+                        "endOffset": 18210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 19069,
+                    "endColumn": 70,
+                    "endOffset": 19135
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 274,
+                        "startColumn": 4,
+                        "startOffset": 18215,
+                        "endColumn": 70,
+                        "endOffset": 18281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 19140,
+                    "endColumn": 64,
+                    "endOffset": 19200
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 275,
+                        "startColumn": 4,
+                        "startOffset": 18286,
+                        "endColumn": 64,
+                        "endOffset": 18346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 19205,
+                    "endColumn": 66,
+                    "endOffset": 19267
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 276,
+                        "startColumn": 4,
+                        "startOffset": 18351,
+                        "endColumn": 66,
+                        "endOffset": 18413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 19272,
+                    "endColumn": 65,
+                    "endOffset": 19333
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 277,
+                        "startColumn": 4,
+                        "startOffset": 18418,
+                        "endColumn": 65,
+                        "endOffset": 18479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 19338,
+                    "endColumn": 69,
+                    "endOffset": 19403
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 278,
+                        "startColumn": 4,
+                        "startOffset": 18484,
+                        "endColumn": 69,
+                        "endOffset": 18549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 19408,
+                    "endColumn": 66,
+                    "endOffset": 19470
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 279,
+                        "startColumn": 4,
+                        "startOffset": 18554,
+                        "endColumn": 66,
+                        "endOffset": 18616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 19475,
+                    "endColumn": 67,
+                    "endOffset": 19538
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 280,
+                        "startColumn": 4,
+                        "startOffset": 18621,
+                        "endColumn": 67,
+                        "endOffset": 18684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 19543,
+                    "endColumn": 76,
+                    "endOffset": 19615
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 281,
+                        "startColumn": 4,
+                        "startOffset": 18689,
+                        "endColumn": 76,
+                        "endOffset": 18761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 19620,
+                    "endColumn": 64,
+                    "endOffset": 19680
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 282,
+                        "startColumn": 4,
+                        "startOffset": 18766,
+                        "endColumn": 64,
+                        "endOffset": 18826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 19685,
+                    "endColumn": 67,
+                    "endOffset": 19748
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 283,
+                        "startColumn": 4,
+                        "startOffset": 18831,
+                        "endColumn": 67,
+                        "endOffset": 18894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 19753,
+                    "endColumn": 69,
+                    "endOffset": 19818
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 284,
+                        "startColumn": 4,
+                        "startOffset": 18899,
+                        "endColumn": 69,
+                        "endOffset": 18964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 19823,
+                    "endColumn": 71,
+                    "endOffset": 19890
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 285,
+                        "startColumn": 4,
+                        "startOffset": 18969,
+                        "endColumn": 71,
+                        "endOffset": 19036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 19895,
+                    "endColumn": 64,
+                    "endOffset": 19955
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 286,
+                        "startColumn": 4,
+                        "startOffset": 19041,
+                        "endColumn": 64,
+                        "endOffset": 19101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 19960,
+                    "endColumn": 65,
+                    "endOffset": 20021
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 287,
+                        "startColumn": 4,
+                        "startOffset": 19106,
+                        "endColumn": 65,
+                        "endOffset": 19167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 20026,
+                    "endColumn": 67,
+                    "endOffset": 20089
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 288,
+                        "startColumn": 4,
+                        "startOffset": 19172,
+                        "endColumn": 67,
+                        "endOffset": 19235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 20094,
+                    "endColumn": 68,
+                    "endOffset": 20158
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 289,
+                        "startColumn": 4,
+                        "startOffset": 19240,
+                        "endColumn": 68,
+                        "endOffset": 19304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 20163,
+                    "endColumn": 73,
+                    "endOffset": 20232
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 290,
+                        "startColumn": 4,
+                        "startOffset": 19309,
+                        "endColumn": 73,
+                        "endOffset": 19378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 20237,
+                    "endColumn": 64,
+                    "endOffset": 20297
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 291,
+                        "startColumn": 4,
+                        "startOffset": 19383,
+                        "endColumn": 64,
+                        "endOffset": 19443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 20302,
+                    "endColumn": 71,
+                    "endOffset": 20369
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 292,
+                        "startColumn": 4,
+                        "startOffset": 19448,
+                        "endColumn": 71,
+                        "endOffset": 19515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 20374,
+                    "endColumn": 67,
+                    "endOffset": 20437
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 293,
+                        "startColumn": 4,
+                        "startOffset": 19520,
+                        "endColumn": 67,
+                        "endOffset": 19583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 20442,
+                    "endColumn": 67,
+                    "endOffset": 20505
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 294,
+                        "startColumn": 4,
+                        "startOffset": 19588,
+                        "endColumn": 67,
+                        "endOffset": 19651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 20510,
+                    "endColumn": 81,
+                    "endOffset": 20587
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 295,
+                        "startColumn": 4,
+                        "startOffset": 19656,
+                        "endColumn": 81,
+                        "endOffset": 19733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 20592,
+                    "endColumn": 81,
+                    "endOffset": 20669
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 296,
+                        "startColumn": 4,
+                        "startOffset": 19738,
+                        "endColumn": 81,
+                        "endOffset": 19815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 20674,
+                    "endColumn": 81,
+                    "endOffset": 20751
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 297,
+                        "startColumn": 4,
+                        "startOffset": 19820,
+                        "endColumn": 81,
+                        "endOffset": 19897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 20756,
+                    "endColumn": 81,
+                    "endOffset": 20833
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 298,
+                        "startColumn": 4,
+                        "startOffset": 19902,
+                        "endColumn": 81,
+                        "endOffset": 19979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 20838,
+                    "endColumn": 80,
+                    "endOffset": 20914
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 299,
+                        "startColumn": 4,
+                        "startOffset": 19984,
+                        "endColumn": 80,
+                        "endOffset": 20060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 20919,
+                    "endColumn": 110,
+                    "endOffset": 21025
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 300,
+                        "startColumn": 4,
+                        "startOffset": 20065,
+                        "endColumn": 110,
+                        "endOffset": 20171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 21030,
+                    "endColumn": 73,
+                    "endOffset": 21099
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 301,
+                        "startColumn": 4,
+                        "startOffset": 20176,
+                        "endColumn": 73,
+                        "endOffset": 20245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 314,
+                    "startColumn": 4,
+                    "startOffset": 21104,
+                    "endColumn": 67,
+                    "endOffset": 21167
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 302,
+                        "startColumn": 4,
+                        "startOffset": 20250,
+                        "endColumn": 67,
+                        "endOffset": 20313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 21172,
+                    "endColumn": 70,
+                    "endOffset": 21238
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 303,
+                        "startColumn": 4,
+                        "startOffset": 20318,
+                        "endColumn": 70,
+                        "endOffset": 20384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 21243,
+                    "endColumn": 60,
+                    "endOffset": 21299
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 304,
+                        "startColumn": 4,
+                        "startOffset": 20389,
+                        "endColumn": 60,
+                        "endOffset": 20445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 21304,
+                    "endColumn": 71,
+                    "endOffset": 21371
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 305,
+                        "startColumn": 4,
+                        "startOffset": 20450,
+                        "endColumn": 71,
+                        "endOffset": 20517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 21376,
+                    "endColumn": 104,
+                    "endOffset": 21476
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 306,
+                        "startColumn": 4,
+                        "startOffset": 20522,
+                        "endColumn": 104,
+                        "endOffset": 20622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 21481,
+                    "endColumn": 86,
+                    "endOffset": 21563
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 307,
+                        "startColumn": 4,
+                        "startOffset": 20627,
+                        "endColumn": 86,
+                        "endOffset": 20709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 21568,
+                    "endColumn": 83,
+                    "endOffset": 21647
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 308,
+                        "startColumn": 4,
+                        "startOffset": 20714,
+                        "endColumn": 83,
+                        "endOffset": 20793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 21652,
+                    "endColumn": 103,
+                    "endOffset": 21751
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 309,
+                        "startColumn": 4,
+                        "startOffset": 20798,
+                        "endColumn": 103,
+                        "endOffset": 20897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 322,
+                    "startColumn": 4,
+                    "startOffset": 21756,
+                    "endColumn": 102,
+                    "endOffset": 21854
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 310,
+                        "startColumn": 4,
+                        "startOffset": 20902,
+                        "endColumn": 102,
+                        "endOffset": 21000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 21859,
+                    "endColumn": 106,
+                    "endOffset": 21961
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 311,
+                        "startColumn": 4,
+                        "startOffset": 21005,
+                        "endColumn": 106,
+                        "endOffset": 21107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 21966,
+                    "endColumn": 71,
+                    "endOffset": 22033
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 312,
+                        "startColumn": 4,
+                        "startOffset": 21112,
+                        "endColumn": 71,
+                        "endOffset": 21179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 22038,
+                    "endColumn": 87,
+                    "endOffset": 22121
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 313,
+                        "startColumn": 4,
+                        "startOffset": 21184,
+                        "endColumn": 87,
+                        "endOffset": 21267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 22126,
+                    "endColumn": 71,
+                    "endOffset": 22193
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 314,
+                        "startColumn": 4,
+                        "startOffset": 21272,
+                        "endColumn": 71,
+                        "endOffset": 21339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 22198,
+                    "endColumn": 82,
+                    "endOffset": 22276
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 315,
+                        "startColumn": 4,
+                        "startOffset": 21344,
+                        "endColumn": 82,
+                        "endOffset": 21422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 22281,
+                    "endColumn": 87,
+                    "endOffset": 22364
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 316,
+                        "startColumn": 4,
+                        "startOffset": 21427,
+                        "endColumn": 87,
+                        "endOffset": 21510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 329,
+                    "startColumn": 4,
+                    "startOffset": 22369,
+                    "endColumn": 96,
+                    "endOffset": 22461
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 317,
+                        "startColumn": 4,
+                        "startOffset": 21515,
+                        "endColumn": 96,
+                        "endOffset": 21607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 22466,
+                    "endColumn": 85,
+                    "endOffset": 22547
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 318,
+                        "startColumn": 4,
+                        "startOffset": 21612,
+                        "endColumn": 85,
+                        "endOffset": 21693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 331,
+                    "startColumn": 4,
+                    "startOffset": 22552,
+                    "endColumn": 72,
+                    "endOffset": 22620
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 319,
+                        "startColumn": 4,
+                        "startOffset": 21698,
+                        "endColumn": 72,
+                        "endOffset": 21766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 332,
+                    "startColumn": 4,
+                    "startOffset": 22625,
+                    "endColumn": 87,
+                    "endOffset": 22708
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 320,
+                        "startColumn": 4,
+                        "startOffset": 21771,
+                        "endColumn": 87,
+                        "endOffset": 21854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 333,
+                    "startColumn": 4,
+                    "startOffset": 22713,
+                    "endColumn": 78,
+                    "endOffset": 22787
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 321,
+                        "startColumn": 4,
+                        "startOffset": 21859,
+                        "endColumn": 78,
+                        "endOffset": 21933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 334,
+                    "startColumn": 4,
+                    "startOffset": 22792,
+                    "endColumn": 84,
+                    "endOffset": 22872
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 322,
+                        "startColumn": 4,
+                        "startOffset": 21938,
+                        "endColumn": 84,
+                        "endOffset": 22018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 335,
+                    "startColumn": 4,
+                    "startOffset": 22877,
+                    "endColumn": 89,
+                    "endOffset": 22962
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 323,
+                        "startColumn": 4,
+                        "startOffset": 22023,
+                        "endColumn": 89,
+                        "endOffset": 22108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 336,
+                    "startColumn": 4,
+                    "startOffset": 22967,
+                    "endColumn": 91,
+                    "endOffset": 23054
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 324,
+                        "startColumn": 4,
+                        "startOffset": 22113,
+                        "endColumn": 91,
+                        "endOffset": 22200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 23059,
+                    "endColumn": 79,
+                    "endOffset": 23134
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 325,
+                        "startColumn": 4,
+                        "startOffset": 22205,
+                        "endColumn": 79,
+                        "endOffset": 22280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 338,
+                    "startColumn": 4,
+                    "startOffset": 23139,
+                    "endColumn": 85,
+                    "endOffset": 23220
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 326,
+                        "startColumn": 4,
+                        "startOffset": 22285,
+                        "endColumn": 85,
+                        "endOffset": 22366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 339,
+                    "startColumn": 4,
+                    "startOffset": 23225,
+                    "endColumn": 81,
+                    "endOffset": 23302
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 327,
+                        "startColumn": 4,
+                        "startOffset": 22371,
+                        "endColumn": 81,
+                        "endOffset": 22448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 340,
+                    "startColumn": 4,
+                    "startOffset": 23307,
+                    "endColumn": 94,
+                    "endOffset": 23397
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 328,
+                        "startColumn": 4,
+                        "startOffset": 22453,
+                        "endColumn": 94,
+                        "endOffset": 22543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 341,
+                    "startColumn": 4,
+                    "startOffset": 23402,
+                    "endColumn": 101,
+                    "endOffset": 23499
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 329,
+                        "startColumn": 4,
+                        "startOffset": 22548,
+                        "endColumn": 101,
+                        "endOffset": 22645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 342,
+                    "startColumn": 4,
+                    "startOffset": 23504,
+                    "endColumn": 81,
+                    "endOffset": 23581
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 330,
+                        "startColumn": 4,
+                        "startOffset": 22650,
+                        "endColumn": 81,
+                        "endOffset": 22727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 343,
+                    "startColumn": 4,
+                    "startOffset": 23586,
+                    "endColumn": 129,
+                    "endOffset": 23711
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 331,
+                        "startColumn": 4,
+                        "startOffset": 22732,
+                        "endColumn": 129,
+                        "endOffset": 22857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 344,
+                    "startColumn": 4,
+                    "startOffset": 23716,
+                    "endColumn": 110,
+                    "endOffset": 23822
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 332,
+                        "startColumn": 4,
+                        "startOffset": 22862,
+                        "endColumn": 110,
+                        "endOffset": 22968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 345,
+                    "startColumn": 4,
+                    "startOffset": 23827,
+                    "endColumn": 101,
+                    "endOffset": 23924
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 333,
+                        "startColumn": 4,
+                        "startOffset": 22973,
+                        "endColumn": 101,
+                        "endOffset": 23070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 346,
+                    "startColumn": 4,
+                    "startOffset": 23929,
+                    "endColumn": 86,
+                    "endOffset": 24011
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 334,
+                        "startColumn": 4,
+                        "startOffset": 23075,
+                        "endColumn": 86,
+                        "endOffset": 23157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 347,
+                    "startColumn": 4,
+                    "startOffset": 24016,
+                    "endColumn": 114,
+                    "endOffset": 24126
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 335,
+                        "startColumn": 4,
+                        "startOffset": 23162,
+                        "endColumn": 114,
+                        "endOffset": 23272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 24131,
+                    "endColumn": 69,
+                    "endOffset": 24196
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 336,
+                        "startColumn": 4,
+                        "startOffset": 23277,
+                        "endColumn": 69,
+                        "endOffset": 23342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 349,
+                    "startColumn": 4,
+                    "startOffset": 24201,
+                    "endColumn": 103,
+                    "endOffset": 24300
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 337,
+                        "startColumn": 4,
+                        "startOffset": 23347,
+                        "endColumn": 103,
+                        "endOffset": 23446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 350,
+                    "startColumn": 4,
+                    "startOffset": 24305,
+                    "endColumn": 107,
+                    "endOffset": 24408
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 338,
+                        "startColumn": 4,
+                        "startOffset": 23451,
+                        "endColumn": 107,
+                        "endOffset": 23554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 351,
+                    "startColumn": 4,
+                    "startOffset": 24413,
+                    "endColumn": 80,
+                    "endOffset": 24489
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 339,
+                        "startColumn": 4,
+                        "startOffset": 23559,
+                        "endColumn": 80,
+                        "endOffset": 23635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 352,
+                    "startColumn": 4,
+                    "startOffset": 24494,
+                    "endColumn": 95,
+                    "endOffset": 24585
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 340,
+                        "startColumn": 4,
+                        "startOffset": 23640,
+                        "endColumn": 95,
+                        "endOffset": 23731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 353,
+                    "startColumn": 4,
+                    "startOffset": 24590,
+                    "endColumn": 113,
+                    "endOffset": 24699
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 341,
+                        "startColumn": 4,
+                        "startOffset": 23736,
+                        "endColumn": 113,
+                        "endOffset": 23845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 354,
+                    "startColumn": 4,
+                    "startOffset": 24704,
+                    "endColumn": 101,
+                    "endOffset": 24801
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 342,
+                        "startColumn": 4,
+                        "startOffset": 23850,
+                        "endColumn": 101,
+                        "endOffset": 23947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 355,
+                    "startColumn": 4,
+                    "startOffset": 24806,
+                    "endColumn": 99,
+                    "endOffset": 24901
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 343,
+                        "startColumn": 4,
+                        "startOffset": 23952,
+                        "endColumn": 99,
+                        "endOffset": 24047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 356,
+                    "startColumn": 4,
+                    "startOffset": 24906,
+                    "endColumn": 114,
+                    "endOffset": 25016
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 344,
+                        "startColumn": 4,
+                        "startOffset": 24052,
+                        "endColumn": 114,
+                        "endOffset": 24162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 357,
+                    "startColumn": 4,
+                    "startOffset": 25021,
+                    "endColumn": 108,
+                    "endOffset": 25125
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 345,
+                        "startColumn": 4,
+                        "startOffset": 24167,
+                        "endColumn": 108,
+                        "endOffset": 24271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 358,
+                    "startColumn": 4,
+                    "startOffset": 25130,
+                    "endColumn": 115,
+                    "endOffset": 25241
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 346,
+                        "startColumn": 4,
+                        "startOffset": 24276,
+                        "endColumn": 115,
+                        "endOffset": 24387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 359,
+                    "startColumn": 4,
+                    "startOffset": 25246,
+                    "endColumn": 92,
+                    "endOffset": 25334
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 347,
+                        "startColumn": 4,
+                        "startOffset": 24392,
+                        "endColumn": 92,
+                        "endOffset": 24480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 360,
+                    "startColumn": 4,
+                    "startOffset": 25339,
+                    "endColumn": 88,
+                    "endOffset": 25423
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 348,
+                        "startColumn": 4,
+                        "startOffset": 24485,
+                        "endColumn": 88,
+                        "endOffset": 24569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 361,
+                    "startColumn": 4,
+                    "startOffset": 25428,
+                    "endColumn": 75,
+                    "endOffset": 25499
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 349,
+                        "startColumn": 4,
+                        "startOffset": 24574,
+                        "endColumn": 75,
+                        "endOffset": 24645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 362,
+                    "startColumn": 4,
+                    "startOffset": 25504,
+                    "endColumn": 109,
+                    "endOffset": 25609
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 350,
+                        "startColumn": 4,
+                        "startOffset": 24650,
+                        "endColumn": 109,
+                        "endOffset": 24755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 363,
+                    "startColumn": 4,
+                    "startOffset": 25614,
+                    "endColumn": 72,
+                    "endOffset": 25682
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 351,
+                        "startColumn": 4,
+                        "startOffset": 24760,
+                        "endColumn": 72,
+                        "endOffset": 24828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 364,
+                    "startColumn": 4,
+                    "startOffset": 25687,
+                    "endColumn": 102,
+                    "endOffset": 25785
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 352,
+                        "startColumn": 4,
+                        "startOffset": 24833,
+                        "endColumn": 102,
+                        "endOffset": 24931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 365,
+                    "startColumn": 4,
+                    "startOffset": 25790,
+                    "endColumn": 96,
+                    "endOffset": 25882
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 353,
+                        "startColumn": 4,
+                        "startOffset": 24936,
+                        "endColumn": 96,
+                        "endOffset": 25028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 366,
+                    "startColumn": 4,
+                    "startOffset": 25887,
+                    "endColumn": 107,
+                    "endOffset": 25990
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 354,
+                        "startColumn": 4,
+                        "startOffset": 25033,
+                        "endColumn": 107,
+                        "endOffset": 25136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 367,
+                    "startColumn": 4,
+                    "startOffset": 25995,
+                    "endColumn": 88,
+                    "endOffset": 26079
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 355,
+                        "startColumn": 4,
+                        "startOffset": 25141,
+                        "endColumn": 88,
+                        "endOffset": 25225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 368,
+                    "startColumn": 4,
+                    "startOffset": 26084,
+                    "endColumn": 85,
+                    "endOffset": 26165
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 356,
+                        "startColumn": 4,
+                        "startOffset": 25230,
+                        "endColumn": 85,
+                        "endOffset": 25311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 369,
+                    "startColumn": 4,
+                    "startOffset": 26170,
+                    "endColumn": 105,
+                    "endOffset": 26271
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 357,
+                        "startColumn": 4,
+                        "startOffset": 25316,
+                        "endColumn": 105,
+                        "endOffset": 25417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 370,
+                    "startColumn": 4,
+                    "startOffset": 26276,
+                    "endColumn": 104,
+                    "endOffset": 26376
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 358,
+                        "startColumn": 4,
+                        "startOffset": 25422,
+                        "endColumn": 104,
+                        "endOffset": 25522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 371,
+                    "startColumn": 4,
+                    "startOffset": 26381,
+                    "endColumn": 118,
+                    "endOffset": 26495
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 359,
+                        "startColumn": 4,
+                        "startOffset": 25527,
+                        "endColumn": 118,
+                        "endOffset": 25641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 372,
+                    "startColumn": 4,
+                    "startOffset": 26500,
+                    "endColumn": 73,
+                    "endOffset": 26569
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 360,
+                        "startColumn": 4,
+                        "startOffset": 25646,
+                        "endColumn": 73,
+                        "endOffset": 25715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 373,
+                    "startColumn": 4,
+                    "startOffset": 26574,
+                    "endColumn": 85,
+                    "endOffset": 26655
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 361,
+                        "startColumn": 4,
+                        "startOffset": 25720,
+                        "endColumn": 85,
+                        "endOffset": 25801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 374,
+                    "startColumn": 4,
+                    "startOffset": 26660,
+                    "endColumn": 73,
+                    "endOffset": 26729
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 362,
+                        "startColumn": 4,
+                        "startOffset": 25806,
+                        "endColumn": 73,
+                        "endOffset": 25875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 26734,
+                    "endColumn": 95,
+                    "endOffset": 26825
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 363,
+                        "startColumn": 4,
+                        "startOffset": 25880,
+                        "endColumn": 95,
+                        "endOffset": 25971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 376,
+                    "startColumn": 4,
+                    "startOffset": 26830,
+                    "endColumn": 89,
+                    "endOffset": 26915
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 364,
+                        "startColumn": 4,
+                        "startOffset": 25976,
+                        "endColumn": 89,
+                        "endOffset": 26061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 377,
+                    "startColumn": 4,
+                    "startOffset": 26920,
+                    "endColumn": 98,
+                    "endOffset": 27014
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 365,
+                        "startColumn": 4,
+                        "startOffset": 26066,
+                        "endColumn": 98,
+                        "endOffset": 26160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 378,
+                    "startColumn": 4,
+                    "startOffset": 27019,
+                    "endColumn": 87,
+                    "endOffset": 27102
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDK-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 366,
+                        "startColumn": 4,
+                        "startOffset": 26165,
+                        "endColumn": 87,
+                        "endOffset": 26248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 379,
+                    "startColumn": 4,
+                    "startOffset": 27107,
+                    "endColumn": 168,
+                    "endOffset": 27271
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 909,
+                        "endColumn": 168,
+                        "endOffset": 1073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 380,
+                    "startColumn": 4,
+                    "startOffset": 27276,
+                    "endColumn": 118,
+                    "endOffset": 27390
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1078,
+                        "endColumn": 118,
+                        "endOffset": 1192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 381,
+                    "startColumn": 4,
+                    "startOffset": 27395,
+                    "endColumn": 66,
+                    "endOffset": 27457
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1197,
+                        "endColumn": 66,
+                        "endOffset": 1259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 382,
+                    "startColumn": 4,
+                    "startOffset": 27462,
+                    "endColumn": 48,
+                    "endOffset": 27506
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1264,
+                        "endColumn": 48,
+                        "endOffset": 1308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 383,
+                    "startColumn": 4,
+                    "startOffset": 27511,
+                    "endColumn": 118,
+                    "endOffset": 27625
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1313,
+                        "endColumn": 118,
+                        "endOffset": 1427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 384,
+                    "startColumn": 4,
+                    "startOffset": 27630,
+                    "endColumn": 105,
+                    "endOffset": 27731
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1432,
+                        "endColumn": 105,
+                        "endOffset": 1533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 385,
+                    "startColumn": 4,
+                    "startOffset": 27736,
+                    "endColumn": 160,
+                    "endOffset": 27892
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1538,
+                        "endColumn": 160,
+                        "endOffset": 1694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 386,
+                    "startColumn": 4,
+                    "startOffset": 27897,
+                    "endColumn": 76,
+                    "endOffset": 27969
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1699,
+                        "endColumn": 76,
+                        "endOffset": 1771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 387,
+                    "startColumn": 4,
+                    "startOffset": 27974,
+                    "endColumn": 79,
+                    "endOffset": 28049
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1776,
+                        "endColumn": 79,
+                        "endOffset": 1851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 388,
+                    "startColumn": 4,
+                    "startOffset": 28054,
+                    "endColumn": 80,
+                    "endOffset": 28130
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1856,
+                        "endColumn": 80,
+                        "endOffset": 1932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 389,
+                    "startColumn": 4,
+                    "startOffset": 28135,
+                    "endColumn": 44,
+                    "endOffset": 28175
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1937,
+                        "endColumn": 44,
+                        "endOffset": 1977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 390,
+                    "startColumn": 4,
+                    "startOffset": 28180,
+                    "endColumn": 105,
+                    "endOffset": 28281
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1982,
+                        "endColumn": 105,
+                        "endOffset": 2083
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 391,
+                    "startColumn": 4,
+                    "startOffset": 28286,
+                    "endColumn": 40,
+                    "endOffset": 28322
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2088,
+                        "endColumn": 40,
+                        "endOffset": 2124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 392,
+                    "startColumn": 4,
+                    "startOffset": 28327,
+                    "endColumn": 127,
+                    "endOffset": 28450
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2129,
+                        "endColumn": 127,
+                        "endOffset": 2252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 393,
+                    "startColumn": 4,
+                    "startOffset": 28455,
+                    "endColumn": 68,
+                    "endOffset": 28519
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2257,
+                        "endColumn": 68,
+                        "endOffset": 2321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 394,
+                    "startColumn": 4,
+                    "startOffset": 28524,
+                    "endColumn": 80,
+                    "endOffset": 28600
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2326,
+                        "endColumn": 80,
+                        "endOffset": 2402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 395,
+                    "startColumn": 4,
+                    "startOffset": 28605,
+                    "endColumn": 48,
+                    "endOffset": 28649
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2407,
+                        "endColumn": 48,
+                        "endOffset": 2451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 396,
+                    "startColumn": 4,
+                    "startOffset": 28654,
+                    "endColumn": 64,
+                    "endOffset": 28714
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2456,
+                        "endColumn": 64,
+                        "endOffset": 2516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 397,
+                    "startColumn": 4,
+                    "startOffset": 28719,
+                    "endColumn": 66,
+                    "endOffset": 28781
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2521,
+                        "endColumn": 66,
+                        "endOffset": 2583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 398,
+                    "startColumn": 4,
+                    "startOffset": 28786,
+                    "endColumn": 163,
+                    "endOffset": 28945
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2588,
+                        "endColumn": 163,
+                        "endOffset": 2747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 399,
+                    "startColumn": 4,
+                    "startOffset": 28950,
+                    "endColumn": 62,
+                    "endOffset": 29008
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2752,
+                        "endColumn": 62,
+                        "endOffset": 2810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 400,
+                    "startColumn": 4,
+                    "startOffset": 29013,
+                    "endColumn": 205,
+                    "endOffset": 29214
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2815,
+                        "endColumn": 205,
+                        "endOffset": 3016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 401,
+                    "startColumn": 4,
+                    "startOffset": 29219,
+                    "endColumn": 96,
+                    "endOffset": 29311
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3021,
+                        "endColumn": 96,
+                        "endOffset": 3113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 402,
+                    "startColumn": 4,
+                    "startOffset": 29316,
+                    "endColumn": 82,
+                    "endOffset": 29394
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 3118,
+                        "endColumn": 82,
+                        "endOffset": 3196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 403,
+                    "startColumn": 4,
+                    "startOffset": 29399,
+                    "endColumn": 94,
+                    "endOffset": 29489
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3201,
+                        "endColumn": 94,
+                        "endOffset": 3291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 404,
+                    "startColumn": 4,
+                    "startOffset": 29494,
+                    "endColumn": 48,
+                    "endOffset": 29538
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 3296,
+                        "endColumn": 48,
+                        "endOffset": 3340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 405,
+                    "startColumn": 4,
+                    "startOffset": 29543,
+                    "endColumn": 141,
+                    "endOffset": 29680
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3345,
+                        "endColumn": 141,
+                        "endOffset": 3482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 406,
+                    "startColumn": 4,
+                    "startOffset": 29685,
+                    "endColumn": 83,
+                    "endOffset": 29764
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 3487,
+                        "endColumn": 83,
+                        "endOffset": 3566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 407,
+                    "startColumn": 4,
+                    "startOffset": 29769,
+                    "endColumn": 90,
+                    "endOffset": 29855
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3571,
+                        "endColumn": 90,
+                        "endOffset": 3657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 408,
+                    "startColumn": 4,
+                    "startOffset": 29860,
+                    "endColumn": 83,
+                    "endOffset": 29939
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3662,
+                        "endColumn": 83,
+                        "endOffset": 3741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 409,
+                    "startColumn": 4,
+                    "startOffset": 29944,
+                    "endColumn": 44,
+                    "endOffset": 29984
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3746,
+                        "endColumn": 44,
+                        "endOffset": 3786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 410,
+                    "startColumn": 4,
+                    "startOffset": 29989,
+                    "endColumn": 85,
+                    "endOffset": 30070
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3791,
+                        "endColumn": 85,
+                        "endOffset": 3872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 411,
+                    "startColumn": 4,
+                    "startOffset": 30075,
+                    "endColumn": 84,
+                    "endOffset": 30155
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3877,
+                        "endColumn": 84,
+                        "endOffset": 3957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 412,
+                    "startColumn": 4,
+                    "startOffset": 30160,
+                    "endColumn": 97,
+                    "endOffset": 30253
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3962,
+                        "endColumn": 97,
+                        "endOffset": 4055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 413,
+                    "startColumn": 4,
+                    "startOffset": 30258,
+                    "endColumn": 80,
+                    "endOffset": 30334
+                },
+                "from": {
+                    "file": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.1\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4060,
+                        "endColumn": 80,
+                        "endOffset": 4136
+                    }
+                }
+            }
+        ]
+    }
+]

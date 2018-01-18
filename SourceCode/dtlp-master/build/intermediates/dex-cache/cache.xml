@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\libs\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\gson-2.6.2_fbadcf833fd8824e46ba8edf04ba1d9227604bf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_27a902d14b5aa514cba216db75becc1a2f520d62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_bf145833f5198987ac179e0b48f476fb2df49456.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\build\intermediates\exploded-aar\com.cjj.materialrefeshlayout\library\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="597d857fe9b090c4582f0855a2c6d6cc45fec544">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\com.cjj.materialrefeshlayout-library-1.3.0_19bb4bc11576d121d000a5adcef50bf8cbe2f660.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\libs\MobCommons-2016.0714.1402.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="57eee6c3e8bab2ed4b9a585a7f590808d6518573">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\MobCommons-2016.0714.1402_08a9a401053445ab0d0d27f9fbe9fb7db38466ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_01777c0672fff72798ac18ff11b3adc7ad0ebd07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_09077ed8f3464d38c27b19696b1687cbf44615e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\libs\rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_cc9003a0c68fa18e18a585c280f44e2f059dd758.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_4c945b7852c20c98289324d0b3f88358f8b0b2ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_10e80d3057aad0d7107d844b49c1a449a01bcd72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_820ab874b747ada55c983b7140d811e0c99dc552.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_6cd2b6ea7870adb5913b04876fd243b35dd2c884.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_ddce99ebce94ab7c972ae86a2be13988c48a69c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_04107e4dedd78023696935a703e3d81bff4e19ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\libs\BmobSDK_3.5.3_20161116.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7dd0893cb2b1d2e4249ce6a10934e3cba2d57d0f">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\BmobSDK_3.5.3_20161116_9325daad5ae10ced2b931d66152457b716e679de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\帅气的瑞霸霸\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_c04480fd476b2291802c260510604df79c99097d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\libs\base-adapter-helper-1.1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4eb0199a30ba0bb793fd2c84eed50a407c88b413">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\base-adapter-helper-1.1.9_599221222c50d29cbe2cc7575dfae0e40209c85c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\libs\rxandroid-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\rxandroid-1.2.0_f052faa81db81b7e39e9e0a21111b250f3780711.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\build\intermediates\exploded-aar\SMSSDK-2.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7b3619e58ab2a0fb6fa87a74e1b4802b413749a">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-SMSSDK-2.1.1_ad5658f99d9f3ab001792f162881681f8288a840.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\帅气的瑞霸霸\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\okio-1.11.0_4933aeafdb509b9a7f45beb41bbda8410b236c54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_7d4424551f68cff9a7207751737235f3b982446d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\build\intermediates\exploded-aar\com.github.Idtk\smallchart\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="042ab9241475336f7d04f31bd0d1d995e9f22faa">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\com.github.Idtk-smallchart-unspecified_e8f725344e7b2746df30a909bbbac523e19d420d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_debd4c0b5ea8b099e65c17ed22f96fc77e722d2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_0713d184f1c9d06fbb29a2b910d418e44c866c3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\build\intermediates\exploded-aar\SMSSDKGUI-2.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1f30237972841d767d5fae5674a001348fd6edfa">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-SMSSDKGUI-2.1.1_3db354faa8c1698116fa38583bba065fe0545321.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_810b8b0999be63ecfd713141d43ad995b104c0ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\computer\dtlp-master\app\libs\MobTools-2016.0714.1402.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2a583c5b1b67aa1f1b9dbbc658d9e0d185d89dd3">
+        <dex dex="E:\computer\dtlp-master\app\build\intermediates\pre-dexed\debug\MobTools-2016.0714.1402_62d95a5a833b0ef5963c620227653cc33a84e93a.jar" />
+    </item>
+
+</items>

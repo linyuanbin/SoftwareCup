@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+//1111推送
+
+    <!--<TextView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:text="用户信息修改"/>-->
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+
+    android:layout_height="wrap_content">
+    <EditText
+        android:id="@+id/phoneoremail"
+        android:background="@drawable/shap"
+        android:layout_weight="10"
+        android:hint="邮箱或者电话号码"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/search"
+        android:background="#dbdbdb"
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:text="搜索"/>
+
+
+
+</LinearLayout>
+//动画显示
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent">-->
+
+        <!--<com.yasic.library.particletextview.View.ParticleTextView-->
+            <!--android:id="@+id/particleTextView"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent" />-->
+    <!--</LinearLayout>-->
+//信息显示栏
+    
+    <LinearLayout
+        android:id="@+id/userinfo"
+        android:visibility="gone"
+        android:paddingTop="20dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:id="@+id/Lid"
+            android:clickable="true"
+            android:visibility="gone"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:paddingLeft="15dp"
+                android:textSize="20dp"
+                android:text="  I  D : "
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+            <TextView
+                android:id="@+id/id"
+                android:hint="1111"
+                android:paddingLeft="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/Lusername"
+            android:clickable="true"
+            android:paddingTop="10dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/XXusername"
+                android:paddingLeft="20dp"
+                android:textSize="20dp"
+                android:text="用户名:"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+
+            <TextView
+                android:id="@+id/Xusername"
+                android:hint="请输入用户名"
+                android:paddingLeft="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/Lpassword"
+            android:clickable="true"
+            android:paddingTop="10dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/XXuserpassword"
+                android:paddingLeft="20dp"
+                android:textSize="20dp"
+                android:text="密码:"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+
+            <TextView
+                android:id="@+id/Xuserpassword"
+                android:hint="请输入密码"
+                android:paddingLeft="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/Lnickname"
+            android:paddingTop="10dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/XXnickname"
+                android:paddingLeft="20dp"
+                android:textSize="20dp"
+                android:text="地址:"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+
+            <TextView
+                android:id="@+id/XnickName"
+                android:hint="请输入地址"
+                android:paddingLeft="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/Lhobby"
+            android:clickable="true"
+            android:paddingTop="10dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/XXhobby"
+                android:paddingLeft="20dp"
+                android:textSize="20dp"
+                android:text="邮箱"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+
+            <TextView
+                android:id="@+id/Xhobby"
+                android:hint="请输入邮箱"
+                android:paddingLeft="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/mission"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="visible"
+            android:paddingTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+           <TextView
+                android:text="完成量"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <com.xdja.progressbarlibrary.NiceProgressBar
+                    android:id="@+id/progressbar1_work"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    />
+                <LinearLayout
+                    android:layout_gravity="center"
+
+                    android:orientation="vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+                        <ImageView
+                            android:paddingTop="20dp"
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:background="#0ee4f7"/>
+                        <TextView
+                            android:id="@+id/userpushcomplete"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+
+                            />
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:paddingBottom="20dp"
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:background="#ede0d4"/>
+                        <TextView
+                            android:id="@+id/userpushnumber"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+
+                            />
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:paddingTop="0dp"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+           <!--<Button-->
+                <!--android:id="@+id/updatainfo"-->
+                <!--android:paddingLeft="20dp"-->
+                <!--android:textSize="20dp"-->
+                <!--android:text="确定修改"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent" />-->
+
+            <com.spark.submitbutton.SubmitButton
+                android:id="@+id/submit_bt"
+                android:layout_width="15dp"
+                android:layout_height="4dp"
+                android:text="Submit"
+                android:textColor="@color/gray"
+                app:sub_btn_background="@color/white"
+                app:sub_btn_duration="3000"
+                app:sub_btn_line_color="#76EE00"
+                app:sub_btn_ripple_color="#76EE00"
+                app:sub_btn_tick_color="#ffffff" />
+
+
+        </LinearLayout>
+        //任务分配情况
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@android:color/holo_red_light">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="关于我们"
+            android:layout_centerInParent="true"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            />
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <TextView
+        android:textColor="#f5fc131f"
+        android:layout_marginTop="20dp"
+        android:textSize="20sp"
+        android:text="     此软件由北华大学，犇跑吧LMY队联合开发以参加软件杯，在开发过程中为了使用户得到刚好的体验，我们纳入了以下开源的项目和API,下面将列举出来，以此鸣谢！"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+        <ListView
+            android:layout_marginTop="5dp"
+            android:id="@+id/list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </ListView>
+    </LinearLayout>
+
+</LinearLayout>

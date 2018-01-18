@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".user_main.main_search">
+
+    <LinearLayout
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/outstanding_feed_L"
+            android:clickable="true"
+            android:paddingRight="20dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageButton
+                android:background="#ffffff"
+                android:id="@+id/img_button_outstanding_feed"
+                android:clickable="false"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/outstaning_feed"
+                />
+            <TextView
+                android:id="@+id/text_out"
+                android:clickable="false"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="未解决异常"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/sovle_feed_L"
+            android:clickable="true"
+            android:paddingLeft="20dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageButton
+                android:background="#ffffff"
+                android:id="@+id/img_button_sovle_feed"
+                android:clickable="false"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/sovle_feed"
+
+                />
+            <TextView
+                android:id="@+id/text_sovle"
+                android:clickable="false"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="已经解决的异常"/>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:visibility="gone"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context=".user_main.main_search"
+        >
+
+        <Button
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/noworkout"
+            android:text="未解决异常"
+            />
+
+
+        <Button
+            android:text="已解决异常"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/workout"
+            />
+
+
+    </LinearLayout>
+   <LinearLayout
+       android:visibility="visible"
+       android:id="@+id/nosolve_LIN"
+       xmlns:android="http://schemas.android.com/apk/res/android"
+       xmlns:tools="http://schemas.android.com/tools"
+       android:layout_width="match_parent"
+       android:layout_height="400dp"
+       android:orientation="vertical"
+       android:paddingBottom="@dimen/activity_vertical_margin"
+       android:paddingLeft="@dimen/activity_horizontal_margin"
+       android:paddingRight="@dimen/activity_horizontal_margin"
+       android:paddingTop="@dimen/activity_vertical_margin"
+       tools:context=".user_main.main_search"
+       >
+       <ListView
+           android:visibility="visible"
+           android:clickable="true"
+           android:id="@+id/mylist"
+           android:layout_width="match_parent"
+           android:layout_height="400dp">
+
+       </ListView>
+   </LinearLayout>
+       <LinearLayout
+           android:id="@+id/solve_LIN"
+           android:visibility="gone"
+           xmlns:android="http://schemas.android.com/apk/res/android"
+           xmlns:tools="http://schemas.android.com/tools"
+           android:layout_width="match_parent"
+           android:layout_height="400dp"
+           android:orientation="vertical"
+           android:paddingBottom="@dimen/activity_vertical_margin"
+           android:paddingLeft="@dimen/activity_horizontal_margin"
+           android:paddingRight="@dimen/activity_horizontal_margin"
+           android:paddingTop="@dimen/activity_vertical_margin"
+           tools:context=".user_main.main_search">
+           <ListView
+               android:visibility="visible"
+               android:clickable="true"
+               android:id="@+id/mylist_solve"
+               android:layout_width="match_parent"
+               android:layout_height="400dp">
+
+           </ListView>
+
+
+
+
+   </LinearLayout>
+   <LinearLayout
+       xmlns:android="http://schemas.android.com/apk/res/android"
+       xmlns:tools="http://schemas.android.com/tools"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal"
+       android:paddingBottom="@dimen/activity_vertical_margin"
+       android:paddingLeft="@dimen/activity_horizontal_margin"
+       android:paddingRight="@dimen/activity_horizontal_margin"
+       android:paddingTop="@dimen/activity_vertical_margin"
+       tools:context=".user_main.main_search"
+       >
+    <Button
+            android:background="@drawable/login_button_selector"
+            android:id="@+id/main_search_back"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="返     回"/>
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\side_pull_box_personal_information_major.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\side_pull_box_personal_information_major.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_image.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\activity_search_image.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\side_pull_box_about.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\side_pull_box_about.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\start_the_animation.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\start_the_animation.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\side_pull_box_setup_tel.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\side_pull_box_setup_tel.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\side_pull_box_setup.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\side_pull_box_setup.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clip_image.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\activity_clip_image.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_main.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\user_main.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\side_pull_box_task.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\side_pull_box_task.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_main_search_image.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\user_main_search_image.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\one_frag_layout.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\one_frag_layout.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_main_image_picturetagview.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\user_main_image_picturetagview.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_classify.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\fragment_classify.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\side_pull_box_integral.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\side_pull_box_integral.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_top_bar_layout.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\common_top_bar_layout.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_main_button.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\bottom_main_button.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading_animation.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\loading_animation.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_text.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\item_text.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_main_image_dothelable_history.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\user_main_image_dothelable_history.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\side_pull_box_personal_information_email.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\side_pull_box_personal_information_email.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\side_pull_box_personal_information.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\side_pull_box_personal_information.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_left_layout.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\item_left_layout.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\registered.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\registered.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_main_history_image.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\user_main_history_image.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_push.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\fragment_push.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_search.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\activity_main_search.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_main_image_dothelable.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\user_main_image_dothelable.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_main_image_picturetagview_right.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\user_main_image_picturetagview_right.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\left_view_layout.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\left_view_layout.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\side_pull_box_personal_information_where.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\side_pull_box_personal_information_where.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_main_push_image.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\user_main_push_image.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_history.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\left_view_bottom_layout.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\left_view_bottom_layout.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\side_pull_box_task_piechart.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\side_pull_box_task_piechart.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\side_pull_box_task_barchart.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\side_pull_box_task_barchart.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forgot_password.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\forgot_password.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\side_pull_box_personal_information_name.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\side_pull_box_personal_information_name.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\side_pull_box_about_text.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\side_pull_box_about_text.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_popupwindow.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\layout_popupwindow.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\computer\\dtlp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_1.xml",
+        "source": "E:\\computer\\dtlp-master\\app\\src\\main\\res\\layout\\activity_main_1.xml"
+    }
+]

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app version="2.5"
+    xmlns="http://java.sun.com/xml/ns/javaee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+    http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+  <display-name></display-name> 
+  <welcome-file-list><!-- 设置默认进入的界面 -->
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+  
+  <!-- 命名servlet  必须和servlet-mapping同时使用  可以有多个servlet-mapping-->
+    <servlet>
+  <servlet-name>FoodServlet</servlet-name>
+  <servlet-class>com.edu.qufu.dinner.servlet.FoodServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>FoodServlet</servlet-name>  <!-- 重命名 servlet-->
+  <url-pattern>/FoodServlet</url-pattern>
+  </servlet-mapping>
+    <servlet>
+  <servlet-name>LoginServe</servlet-name>
+  <servlet-class>Server.LoginServe</servlet-class> <!-- com.edu.qufu.dinner.servlet. -->
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>LoginServe</servlet-name>
+  <url-pattern>/LoginServe</url-pattern>
+  </servlet-mapping>
+  
+  <!-- 管理员上传图片资料-->
+  <servlet>
+  <servlet-name>UploadShipServlet</servlet-name>
+  <servlet-class>Server.UploadShipServlet</servlet-class> <!-- com.edu.qufu.dinner.servlet. -->
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>UploadShipServlet</servlet-name>
+  <url-pattern>/UploadShipServlet</url-pattern>
+  </servlet-mapping>
+  
+  <!-- 用户上传头像 -->
+  <servlet>
+  <servlet-name>UploadPicture</servlet-name>
+  <servlet-class>Server.UploadPicture</servlet-class> <!-- com.edu.qufu.dinner.servlet. -->
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>UploadPicture</servlet-name>
+  <url-pattern>/UploadPicture</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  <servlet-name>managerServer</servlet-name>
+  <servlet-class>Server.ManagerServer</servlet-class> <!-- com.edu.qufu.dinner.servlet. -->
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>managerServer</servlet-name>
+  <url-pattern>/managerServer</url-pattern>
+  </servlet-mapping>
+  
+    <!--NFDFlightDataTaskListener 监听器 定时完成最终标签和实现标签初始化 -->
+<listener>
+    <listener-class>timing.NFDFlightDataTaskListener</listener-class>
+</listener>
+
+  
+</web-app>

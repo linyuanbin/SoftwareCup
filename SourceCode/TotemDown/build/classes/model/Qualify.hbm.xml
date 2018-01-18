@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2017-6-24 18:51:56 by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="model.Qualify" table="QUALIFY">
+        <id name="qid" type="java.lang.String">
+            <column name="QID" />
+            <generator class="assigned" />
+        </id>
+        <property name="hisNum" type="int">
+            <column name="HISNUM" />
+        </property>
+        <property name="markNum" type="int">
+            <column name="MARKNUM" />
+        </property>
+        <property name="Num" type="int">
+            <column name="NUM" />
+        </property>
+        <property name="states" type="java.lang.String">
+            <column name="STATES" />
+        </property>
+        <property name="state" type="java.lang.String">
+            <column name="STATE" />
+        </property>
+    </class>
+</hibernate-mapping>

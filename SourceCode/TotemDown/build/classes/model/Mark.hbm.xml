@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2017-4-23 18:19:28 by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="model.Mark" table="MARK">
+        <id name="TabId" type="java.lang.String">
+            <column name="TABID" />
+            <generator class="assigned" />
+        </id>
+        <many-to-one name="user" class="model.User" > <!-- fetch="join" -->
+            <column name="USERID" />
+        </many-to-one>
+        <many-to-one name="picture" class="model.Picture" >  <!-- fetch="join" -->
+            <column name="PID" />
+        </many-to-one>
+        <property name="MarkName" type="java.lang.String">
+            <column name="MARKNAME" />
+        </property>
+        <property name="MarkDate" type="java.util.Date">
+            <column name="MARKDATE" />
+        </property>
+    </class>
+</hibernate-mapping>
